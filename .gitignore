@@ -16,6 +16,7 @@ launcher-configuration.json
 **/db.sqlite3
 **/log
 archive/pc/content
+archive/pc/mod/basegame_AMM_Props.archive
 bin/x64/*.*
 bin/x64/CrashReporter
 bin/x64/d3d12on7
